@@ -16,3 +16,6 @@
 	Таким образом получаем кумулятивные распределения.
 3. Есть ещё отработка модели (без watershed) на тестовых данных.
 	code/model_test.ipynb.
+        Тестовые данные можно найти [тут](https://edunet.kea.su/students_datasets/Biology_and_Chemistry/Kravtsov/test_images_512x512_npy.zip).
+	
+Веса обученной модели можно найти [тут](https://edunet.kea.su/students_datasets/Biology_and_Chemistry/Kravtsov/best_model_FPN_efficientnet-b4_ep100_bs11_wc_wlrsch_lr0_001_imagenet.pth).
